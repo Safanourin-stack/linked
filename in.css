@@ -1,0 +1,53 @@
+.hed{
+  font-weight: 300;
+  color: red;
+  font-size: 55px;
+}
+.loo  div{
+  margin-left: 17px;
+  margin-right: 17px;
+}
+.ml{
+  font-size: 12px;
+}
+.vll{
+  border-radius: 150px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+.jj{
+  transform: rotate(270deg)
+  
+}
+.vv{
+  width: 400px;
+}
+.vv input{
+  height: 100px;
+}
+.vv button{
+  border: 40px;
+}
+
+.imo{
+  border-radius: 280px 280px 10px 90px;
+  height: 430px;
+  width: 670px;
+  
+}
+@media(min-width:800px){
+
+  .mi{
+    display:none;
+  }
+}
+@media(max-width:800px){
+
+  .bb{
+    display:none;
+  }
+}
+body{
+  overflow-x: hidden;
+}
